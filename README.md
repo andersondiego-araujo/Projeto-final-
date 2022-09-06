@@ -50,3 +50,16 @@ Esta API possui os seguintes endpoints:
 // D: Delete específico - DELETE + id do recurso
 '/produto/:id'
  Neste endpoint será deletado a lista dos produtos da vitrine de acordo com o ID
+ 
+ Colaboradores do projeto:
+
+- Alvaro Lima
+- Valéria Keline
+- Anderson
+- Jeison
+- Emanuel
+
+Status do Projeto:
+
+- Finalizado
+ 
